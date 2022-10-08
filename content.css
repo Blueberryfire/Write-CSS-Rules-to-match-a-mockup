@@ -1,0 +1,38 @@
+.page {
+  height: 100vh;
+  background-color: #D3D0CB;
+}
+
+#article_title {
+  font-family: 'Anton', monospace;
+  font-size: 45px;
+  color: #461220;
+}
+
+#intro {
+  font-family: 'Oswald', monospace;
+  font-size: 25px;
+  color: #8C2F39;
+}
+
+.question{
+  font-family: 'Railway', monospace;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #4C5760;
+}
+
+.answer{
+  font-family: 'Railway', monospace;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#block_quote {
+  font-family: 'Oswald', monospace;
+  font-size: 30px;
+  color: #8C2F39;
+  margin-left: 100px;
+  padding-left: 10px;
+  border-left: 2px solid #4C5760;
+}
